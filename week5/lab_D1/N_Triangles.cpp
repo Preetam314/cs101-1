@@ -17,7 +17,7 @@ void print_starry_line (int num_spaces ,int num_stars){
         print_spaces(num_spaces);
         print_stars(num_stars);
         print_spaces(num_spaces);
-		cout << " ";
+		cout << " #";
 		
     }
 }
